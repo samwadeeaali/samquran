@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assetes/images/splachscreen.jpg
+  branding: assetes/images/brand.jpg
+  color_dark: "#1C1C1C"
+  image_dark: assetes/images/splachscreen-dark.jpg
+  branding_dark: assetes/images/brand-dark.jpg
+
+  android_12:
+    image: assetes/images/splachscreen.jpg
+    icon_background_color: "#FFFFFF"
+    image_dark: assetes/images/splachscreen-dark.jpg
+    icon_background_color_dark: "#1C1C1C"
